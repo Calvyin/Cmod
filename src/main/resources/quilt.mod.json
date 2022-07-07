@@ -2,7 +2,7 @@
 	"schema_version": 1,
 	"quilt_loader": {
 		"group": "com.example",
-		"id": "example_mod",
+		"id": "cmod",
 		"version": "${version}",
 		"metadata": {
 			"name": "Mod Name",
@@ -15,6 +15,7 @@
 				"issues": "https://github.com/QuiltMC/quilt-template-mod/issues",
 				"sources": "https://github.com/QuiltMC/quilt-template-mod"
 			},
+			"license": "Mit-license",
 			"icon": "assets/example_mod/icon.png"
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
